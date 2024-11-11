@@ -14,7 +14,7 @@ My research interest lies in the intersection of **complex network**, **computat
 
 
 
-## 👨‍🔬 Research experience
+# 👨‍🔬 Research experience
 
 My research focuses on **percolation phenomena in complex networks**, **combinatorial optimization problems in graph theory**, and **geometric probability problems**.
 
@@ -29,7 +29,7 @@ In both projects, my work involves **theoretical derivations**, **numerical comp
 
 
 
-## 📝 Paper
+# 📝 Paper
 
 [*: co-first author; #: corresponding author]
 
