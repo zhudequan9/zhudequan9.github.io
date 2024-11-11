@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ## About me
 
 I am currently a **senior undergraduate student** at School of Data Science & Engineering, **South China Normal University** [(SCNU)](https://www.scnu.edu.cn/), under the supervision of **Prof.** [Jin-Hua Zhao](http://ds.scnu.edu.cn/a/20221109/116.html). My major is **Data Science and Big Data Technology** (Rank 1/30) .
