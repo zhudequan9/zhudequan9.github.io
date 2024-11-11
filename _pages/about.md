@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "📖 About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## 📖 About me
-
 I am currently a **senior undergraduate student** at School of Data Science & Engineering, **South China Normal University** [(SCNU)](https://www.scnu.edu.cn/), under the supervision of **Prof.** [Jin-Hua Zhao](http://ds.scnu.edu.cn/a/20221109/116.html). My major is **Data Science and Big Data Technology** (Rank 1/30) .
 
 My research interest lies in the intersection of **complex network**, **computational neuroscience** and **machine learning**.
@@ -16,7 +14,7 @@ My research interest lies in the intersection of **complex network**, **computat
 
 
 
-## 👨‍🔬 research experience
+## 👨‍🔬 Research experience
 
 My research focuses on **percolation phenomena in complex networks**, **combinatorial optimization problems in graph theory**, and **geometric probability problems**.
 
