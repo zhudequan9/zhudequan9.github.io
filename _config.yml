@@ -21,7 +21,7 @@ repository               : "zhudequan9/zhudequan9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_photo.jpg"
+  avatar           : "my_photo.png"
   name             : "De-Quan Zhu 朱德权"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student of Data Science & Engineering at SCNU"
