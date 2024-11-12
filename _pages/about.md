@@ -10,7 +10,7 @@ I am currently a **senior undergraduate student** at School of Data Science & En
 
 My research interest lies in the intersection of **complex network**, **computational neuroscience** and **machine learning**.
 
-[Curriculum Vitae](./assets/CV.pdf)    [Transcript](./assets/Transcript.pdf)
+[Curriculum Vitae](./assets/CV.pdf) | [Transcript](./assets/Transcript.pdf)
 
 
 
