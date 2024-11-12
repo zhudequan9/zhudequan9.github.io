@@ -43,4 +43,4 @@ In both projects, my work involves **theoretical derivations**, **numerical comp
 
 # 🧠 Academic Activities
 [First Training Course on Neural Modeling and Programming](https://github.com/brainpy/1st-neural-modeling-and-programming-course), August 23-29, 2023, Online.
-- learned the modeling and numerical simulation of neuron and synapse models.
+- Learned the modeling and numerical simulation of neuron and synapse models.
