@@ -37,12 +37,10 @@ In both projects, my work involves **theoretical derivations**, **numerical comp
 
 2. Yan-Jie Min* , **De-Quan Zhu*** , Jin-Hua Zhao#. Buffon-Laplace Needle Problem as a Geometric Probabilistic Approach to Filtration Process, under review in ***Physica A: Statistical Mechanics and its Applications***. [arXiv](https://arxiv.org/abs/2402.06670)
 
-# :office: ​Internship
-[Institute of Automation, Chinese Academy of Sciences](https://ia.cas.cn/), July–September 2024
-
+### 🧱 Internship
+[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), July–September 2024
 - Developed a model with the PaddleScience framework. [VelocityGAN](https://paddlescience-docs.readthedocs.io/zh-cn/latest/zh/examples/velocity_gan/)
 
 # 🧠 Academic Activities
-
 [First Training Course on Neural Modeling and Programming](https://github.com/brainpy/1st-neural-modeling-and-programming-course), August 23-29, 2023, Online.
 - learned the modeling and numerical simulation of neuron and synapse models.
