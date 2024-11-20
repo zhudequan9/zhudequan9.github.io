@@ -33,9 +33,9 @@ In both projects, my work involves **theoretical derivations**, **numerical comp
 
 [*: co-first author; #: corresponding author]
 
-1. **De-Quan Zhu*** , Yan-Jie Min* , Jin-Hua Zhao#. A percolation model and a cost-benefit analysis of random node reinforcement in interdependent networks. (the manuscript is in preparation)
+1. **De-Quan Zhu*** , Yan-Jie Min* , Jin-Hua Zhao#. A percolation model and a cost-benefit analysis of random node reinforcement in interdependent networks. (in preparation)
 
-2. Yan-Jie Min* , **De-Quan Zhu*** , Jin-Hua Zhao#. Buffon-Laplace Needle Problem as a Geometric Probabilistic Approach to Filtration Process, under review in ***Physica A: Statistical Mechanics and its Applications***. [arXiv](https://arxiv.org/abs/2402.06670)
+2. Yan-Jie Min* , **De-Quan Zhu*** , Jin-Hua Zhao#. Buffon-Laplace Needle Problem as a Geometric Probabilistic Approach to Filtration Process, ***Physica A: Statistical Mechanics and its Applications***. (in press) [arXiv](https://arxiv.org/abs/2402.06670)
 
 # 🧱 Internship
 [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), July–September 2024
